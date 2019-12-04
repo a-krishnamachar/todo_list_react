@@ -1,0 +1,21 @@
+#submit {
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    float: right;
+    border: green;
+    font-family: Georgia;
+
+}
+
+#submit:hover {
+    background-color: rgb(0,250,100);
+    border: 1 px solid red;
+}
+
+#newText {
+    width: 70%;
+    font-size: 25px;
+    border: 1px solid black;
+    font-family: Georgia;
+}

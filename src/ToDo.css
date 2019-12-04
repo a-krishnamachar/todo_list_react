@@ -1,0 +1,40 @@
+.check {
+    float: left;
+    margin-right: 10px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    width: 140px;
+    height: 40px;
+    font-family: Georgia;
+    background-color: rgb(50,150,250);
+}
+
+.completed {
+    color: white;
+    background-color: rgb(150,0,150);
+}
+
+.delete {
+    float: right;
+    font-size: 20px;
+    padding: 5px 10px;
+    background-color: red;
+    color: white;
+}
+
+.todo {
+    font-size: 20px;
+    padding: 20px;
+    border: 1px solid black;
+    font-family: Georgia;
+}
+
+p {
+    display: inline-block;
+    margin: 4px;
+}
+
+button {
+    position: relative;
+    font-family: Georgia;
+}
